@@ -117,12 +117,6 @@ http://localhost:5173
 
 The objective of this project is to build a user-friendly AI chatbot by integrating a modern React frontend with a Node.js backend and a generative AI API.
 
-## 👩‍💻 Developer
-
-**Chandrika Bandaru**
-
-GitHub: https://github.com/chandrika-bandaru
-
 ## 📌 Future Enhancements
 
 - Persistent conversation storage
